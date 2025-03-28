@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi! I'm Alessio Marinelli
 
-<!--
-**mobs75/mobs75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architect with a passion for endurance sports, mountains, and knowledge sharing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Roles
+
+- ☁️ **Cloud Architect**
+- 🔧 **DevOps Architect**
+- 🧠 **Big Data Architect**
+
+---
+
+## 🏔️ Outdoor Passions
+
+- 🥾 **Trail Running Coach – Level 2**
+- 🧗‍♂️ **Climber**
+- 🏃 **Ultrarunner**
+- 🏔️ **Alpinist**
+
+---
+
+## 🌐 Connect with Me
+
+- 📧 Email: [marinelli_alessio@yahoo.it](mailto:marinelli_alessio@yahoo.it)
+- 💼 LinkedIn: [linkedin.com/in/marinelli-alessio-b302042a](https://www.linkedin.com/in/marinelli-alessio-b302042a/)
+- ✍️ Medium: [medium.com/@marinelli_alessio](https://medium.com/@marinelli_alessio)
+
+---
+
+📌 _"Share, explore, push your limits. Always."_
+
